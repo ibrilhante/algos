@@ -1,3 +1,3 @@
 # algos
 
-Daily algorythm practice to improve my coding abilities and knowledge. 
+Daily algorythm practice to improve my coding abilities and knowledge in JavaScript.
